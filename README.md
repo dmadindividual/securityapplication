@@ -1,4 +1,4 @@
-Here's a comprehensive `README.md` file for your Spring Boot Security application:
+
 
 ---
 
